@@ -1,5 +1,4 @@
-var https = require('https');                               
-
+https = require("https");
 
 function getAndPrintHTMLChunks () {
 
@@ -19,5 +18,3 @@ function getAndPrintHTMLChunks () {
   });
 
 }
-
-getAndPrintHTMLChunks();
